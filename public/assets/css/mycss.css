@@ -1,0 +1,47 @@
+.responsive-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.shop-hero {
+    height: 500px;
+    background-position: 50% 20%;
+}
+
+.create-hero {
+    height: 500px;
+    background-position: 50% 10%;
+}
+
+.show-hero {
+    height: 500px;
+    background-position: 50% 5%;
+}
+
+.mypagination {
+    display: flex;
+}
+
+.myprevious {
+    margin-right: 0px;
+    width: 40px;
+    border: 1px solid #EDF1FF;
+}
+
+.mynext {
+    margin-left: 0px;
+    width: 40px;
+    border: 1px solid #EDF1FF;
+}
+
+.category {
+    cursor: pointer;
+}
+
+.main-color {
+    color: #D19C97;
+}
+
+.pointer {
+    cursor: pointer;
+}
